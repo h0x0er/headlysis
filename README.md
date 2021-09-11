@@ -1,7 +1,7 @@
 
 ## Headlysis
 
-A tool for checking the security headers present in a website.
+A tool for checking security headers present in a website.
 
 
 ## Building
