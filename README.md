@@ -31,3 +31,8 @@ A tool for checking security headers present in a website.
 ![Image](headlysis.png)
 
 
+# More
+
+I have hosted the web implementation of this package on heroku. Just pass url of the target `?url=<full_url_here_of_taget>` and send the request to see the output.
+[headlysis](https://headlysis-prod.herokuapp.com/headlysis?url=)
+
